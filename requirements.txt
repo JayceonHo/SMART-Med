@@ -1,0 +1,14 @@
+torch>=2.6.0
+transformers>=4.57.0
+modelscope>=1.37.1
+peft>=0.14.0
+numpy>=1.26.0
+pillow>=10.4.0
+huggingface_hub
+
+# Fine-tuning only (not required for inference/evaluation):
+ms-swift>=3.5.0
+
+# Qwen3-VL fine-tuning/runtime helpers
+qwen-vl-utils==0.0.14
+decord==0.6.0

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.cache/
+.pytest_cache/
+.mypy_cache/
+/log/
+/output/
+/dataset/
+
+.DS_Store
+archive/
