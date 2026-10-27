@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌐 [Project Page](https://github.com/JayceonHo/SMART-Med) | 🎨 [Dataset](https://huggingface.co/datasets/JayceonHo/MedVR-3K) |  📄 [Paper](https://arxiv.org/pdf/2602.10179) 
+🌐 [Project Page](https://github.com/JayceonHo/SMART-Med) | 🎨 [Dataset](https://huggingface.co/datasets/JayceonHo/MedVR-3K) |  📄 [Paper](https://arxiv.org/abs/2610.33544) 
 </div>
 <p align="center">
   <img src="assets/teaser.jpeg" width="80%" alt="SMART-Med teaser">
@@ -14,7 +14,7 @@ Existing multi-agent systems (MAS) for medical visual question answering (MedVQA
 **dense, always-on collaboration** among large, cloud-hosted models — which is costly, slow, and
 raises data-privacy concerns in clinical settings. **SMART-Med** challenges both assumptions: it is
 a **fully local** multi-agent method that treats collaboration as a *learnable decision* rather than
-a default behavior.The key insight is that not every medical query needs multi-agent deliberation — many can be solved
+a default behavior. The key insight is that not every medical query needs multi-agent deliberation — many can be solved
 reliably by a single well-trained agent, while only genuinely uncertain cases benefit from expert
 collaboration. 
 
